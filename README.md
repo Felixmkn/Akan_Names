@@ -1,9 +1,6 @@
 <<<<<<< HEAD
 ## Akan Names
 
-=======
-## Akan Name
->>>>>>> 89a970e6aae6120d341850697f6f1f34e15f4fb7
 
 ## Author
 Felix Mwangi
