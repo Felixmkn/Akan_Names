@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 ## Akan Names
 
+=======
+## Akan Name
+>>>>>>> 89a970e6aae6120d341850697f6f1f34e15f4fb7
 
 ## Author
 Felix Mwangi
@@ -17,7 +21,11 @@ You need to have git installed on your computer. You can install it with the ste
 To acces this project, you can clone it using these steps;
 1. Open your terminal (Ctrl+Alt+T)
 2. Change the current working directory to the location where you want the cloned directory.
+<<<<<<< HEAD
 3. Type `$ git clone https://github.com/felixmkn/Akan_Names.git`
+=======
+3. Type `$ git clone https://github.com/felixmkn/Akan-Name.git`
+>>>>>>> 89a970e6aae6120d341850697f6f1f34e15f4fb7
 4. `Enter` to create your local clone.
     * This will clone the repositoty into your local folder.
 
@@ -39,7 +47,11 @@ To acces this project, you can clone it using these steps;
 5. Git
 
 ### Live Site
+<<<<<<< HEAD
 View [live](https://github.com/Felixmkn/Akan_Names) demo.
+=======
+View [live](https://felixmkn.github.io/Akan_Names/) demo.
+>>>>>>> 89a970e6aae6120d341850697f6f1f34e15f4fb7
 
 ### License
 * Licenced under [MIT](LICENSE).
