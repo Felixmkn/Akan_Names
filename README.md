@@ -39,7 +39,7 @@ To acces this project, you can clone it using these steps;
 5. Git
 
 ### Live Site
-View [live](https://jluseno161.github.io/Akan-Name/) demo.
+View [live](https://felixmkn.github.io/Akan_Names/) demo.
 
 ### License
 * Licenced under [MIT](LICENSE).
