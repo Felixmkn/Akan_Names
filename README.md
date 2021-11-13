@@ -1,5 +1,4 @@
 ## Akan Name
-# ![Akan-Name](https://jluseno161.github.io/Akan-Name/images/app.png)
 
 ## Author
 Felix Mwangi
@@ -17,7 +16,7 @@ You need to have git installed on your computer. You can install it with the ste
 To acces this project, you can clone it using these steps;
 1. Open your terminal (Ctrl+Alt+T)
 2. Change the current working directory to the location where you want the cloned directory.
-3. Type `$ git clone https://github.com/jLuseno161/Akan-Name.git`
+3. Type `$ git clone https://github.com/felixmkn/Akan-Name.git`
 4. `Enter` to create your local clone.
     * This will clone the repositoty into your local folder.
 
